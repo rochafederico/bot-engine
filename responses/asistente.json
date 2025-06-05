@@ -1,0 +1,441 @@
+{
+  "response": {
+    "nodesVisited": [],
+    "context": {
+      "global": {
+        "system": {
+          "user_id": "5493424348875",
+          "turn_count": 1,
+          "session_start_time": "2025-05-15T13:37:42.796Z",
+          "state": "eyJuYW1lIjoibGl2ZSIsInNraWxscyI6W3siY29uZmlnIjp7ImFjdGlvbnMiOnRydWUsIndvcmtzcGFjZV9pZCI6IjI0MmJkZDFkLTdiZTgtNGQ4ZS1hYWY1LTBmZjg1ZjE1NTI5NSIsInNraWxsX3JlZmVyZW5jZV9pZCI6IjA2Y2RmMWI3LWUyYTYtNDc3MS1hODgxLWE5NmI3MWZkOGY5NyJ9LCJkaXNhYmxlZCI6ZmFsc2UsImxhbmd1YWdlIjoiZXMiLCJza2lsbF9pZCI6IjI0MmJkZDFkLTdiZTgtNGQ4ZS1hYWY1LTBmZjg1ZjE1NTI5NSIsInNraWxsX3R5cGUiOiJhY3Rpb24iLCJza2lsbF9yZWZlcmVuY2UiOiJhY3Rpb25zIHNraWxsIiwic3lzdGVtX3NldHRpbmdzIjp7InRvcGljX3N3aXRjaCI6eyJkaWdyZXNzaW9uX2hhbmRsZXIiOm51bGx9LCJnZW5lcmF0aXZlX2FpIjp7Im1vZGVsX2lkIjoiaWJtL2dyYW5pdGUtMy04Yi1pbnN0cnVjdCIsImhhcF9maWx0ZXIiOm51bGwsInByb21wdF9pbnN0cnVjdGlvbiI6bnVsbH19LCJza2lsbF9zbmFwc2hvdF9pZCI6IjhmODk4YzIyLTE5NzMtNDk4NS1iNjI4LWQ3ZDE2NGZlZTRmMCIsInNraWxsX3NuYXBzaG90X25hbWUiOiIyNDUifSx7ImNvbmZpZyI6eyJjb252ZXJzYXRpb25hbCI6ZmFsc2V9LCJkaXNhYmxlZCI6dHJ1ZSwibGFuZ3VhZ2UiOiJ4eCIsInNraWxsX2lkIjoiZmY2MzZkOTEtNDM0NC00ZWMyLWJlOWItZjRhNjE3MTc4YTBlIiwic2tpbGxfdHlwZSI6InNlYXJjaCIsInNraWxsX3JlZmVyZW5jZSI6InNlYXJjaCBza2lsbCIsInN5c3RlbV9zZXR0aW5ncyI6eyJ0b3BpY19zd2l0Y2giOnsiZGlncmVzc2lvbl9oYW5kbGVyIjpudWxsfSwiZ2VuZXJhdGl2ZV9haSI6eyJtb2RlbF9pZCI6bnVsbCwiaGFwX2ZpbHRlciI6bnVsbCwicHJvbXB0X2luc3RydWN0aW9uIjpudWxsfX0sInNraWxsX3NuYXBzaG90X2lkIjpudWxsLCJza2lsbF9zbmFwc2hvdF9uYW1lIjpudWxsfV0sImxhbmd1YWdlIjoiZXMiLCJwcm92aWRlcnMiOltdLCJydW50aW1lX2lkIjoiMTgxNDBjZGUtOGNhZC00YjViLWI4MjUtYTQwZDQ0MTc2ODlmIiwiZW52aXJvbm1lbnQiOiJsaXZlIiwiaW5zdGFuY2VfaWQiOiJiMmRjNGE2Ni0zOGJjLTQ2YmQtYWRmMi0yZGYyNWIyMWY2MDciLCJhc3Npc3RhbnRfaWQiOiIwZTdjMTUzYi1hZGYxLTRhNjItYWMxOC1jNWY0MmNjMWFhMGUiLCJjZXJ0aWZpY2F0ZXMiOltdLCJlbnZpcm9ubWVudF9pZCI6IjE4MTQwY2RlLThjYWQtNGI1Yi1iODI1LWE0MGQ0NDE3Njg5ZiIsImRpc2FibGVfZmFsbGJhY2siOnRydWUsInBhcmVudF9hc3Npc3RhbnRfaWQiOiIwZTdjMTUzYi1hZGYxLTRhNjItYWMxOC1jNWY0MmNjMWFhMGUiLCJjZXJ0aWZpY2F0aW9uX21ldGhvZCI6InVuYXV0aG9yaXplZCIsImRpc2FibGVfc2Vzc2lvbl9oaXN0b3J5IjpmYWxzZSwic2Vzc2lvbl9oaXN0b3J5IjpbeyJ1IjoiSG9sYSIsIm4iOnRydWV9LHsiYSI6IkxsYW1hZG8gYSBHRVRfQ1VTVE9NRVJfSU5GTyJ9XSwiYWN0aXZlX3NraWxsIjoiYWN0aW9ucyBza2lsbCJ9"
+        },
+        "session_id": "d1adc699-315a-49d0-a073-9edc4b04b176"
+      },
+      "skills": {
+        "actions skill": {
+          "system": {
+            "state": "eyJzZXNzaW9uX3N0YXJ0X3RpbWUiOiIyMDI1LTA1LTE1VDEzOjM3OjQyLjc5NloiLCJzZXNzaW9uX2lkIjoiZDFhZGM2OTktMzE1YS00OWQwLWEwNzMtOWVkYzRiMDRiMTc2Iiwic2tpbGxfcmVmZXJlbmNlIjoiYWN0aW9ucyBza2lsbCIsImFzc2lzdGFudF9pZCI6IjE4MTQwY2RlLThjYWQtNGI1Yi1iODI1LWE0MGQ0NDE3Njg5ZiIsImRpZ3Jlc3NlZF9mcm9tIjpudWxsLCJzaGFkb3dfdmFyaWFibGVzIjp7fSwiaGl0c19jb3VudCI6MCwic3VnZ2VzdGlvbnMiOnsibWV0YWRhdGEiOnt9LCJzdWdnZXN0aW9ucyI6W119LCJwcml2YXRlX3NoYWRvd192YXJpYWJsZXMiOnt9LCJub19hY3Rpb25fbWF0Y2hlc19jb3VudCI6MCwiX25vZGVfb3V0cHV0X21hcCI6eyJhY3Rpb25fMTQ3MTAtMiBzdGVwXzUwMiI6eyIwIjpbMF19fSwiYWN0aW9uX3N0YWNrIjpbeyJhY3Rpb24iOiJhY3Rpb25fNDM3MzkiLCJhY3Rpb25fc3RhcnRfdGltZSI6IjIwMjUtMDUtMTVUMTM6Mzc6NDIuOTg2ODQ2Nzk2WiIsImNvbnRleHRfbG9jYWwiOnsic3RlcF84MzIiOnRydWUsInN0ZXBfNzkwIjp0cnVlfSwiY29udGV4dF9wcml2YXRlX2xvY2FsIjp7fSwiY29udGV4dF9zaGFkb3ciOnt9LCJjb250ZXh0X3ByaXZhdGVfc2hhZG93Ijp7fSwiZW5kX2FjdGlvbl9vbl9yZXN1bWUiOnRydWV9LHsiYWN0aW9uIjoiYWN0aW9uXzQ0NTc1LTMiLCJhY3Rpb25fc3RhcnRfdGltZSI6IjIwMjUtMDUtMTVUMTM6Mzc6NDIuOTg3MDM0MTQ4WiIsImNvbnRleHRfbG9jYWwiOnsic3RlcF84MjEiOnRydWUsInN0ZXBfMTgwIjp0cnVlfSwiY29udGV4dF9zaGFkb3ciOnt9LCJzdWJhY3Rpb25faW52b2NhdGlvbiI6eyJyZXN1bHRfdmFyaWFibGUiOiJzdGVwXzc5MF9yZXN1bHRfMSIsImFjdGlvbiI6ImFjdGlvbl80NDU3NS0zIn19LHsiYWN0aW9uIjoiYWN0aW9uXzE0NzEwLTIiLCJhY3Rpb25fc3RhcnRfdGltZSI6IjIwMjUtMDUtMTVUMTM6Mzc6NDIuOTg3MTg0MDkwWiIsImN1cnJlbnRfc3RlcCI6InN0ZXBfNTAyIiwidHJpZXNfZWxhcHNlZCI6eyJzdGVwXzUwMiI6MX0sInN1YmFjdGlvbl9pbnZvY2F0aW9uIjp7InJlc3VsdF92YXJpYWJsZSI6InN0ZXBfMTgwX3Jlc3VsdF8xIiwiYWN0aW9uIjoiYWN0aW9uXzE0NzEwLTIifX1dLCJwcml2YXRlX3ZhcmlhYmxlc19lbmNyeXB0ZWQiOnRydWV9"
+          },
+          "action_variables": {},
+          "skill_variables": {
+            "onboarded": false,
+            "status_client": {},
+            "first_time_user": false,
+            "channel": "Mod-152880",
+            "phone_number": "5493424348875",
+            "first_interaction": true,
+            "same_day_user": true,
+            "account_already_called": false,
+            "campaign_jump": false,
+            "card_selected": "{}",
+            "cards_info": "",
+            "client_consulted_debts": false,
+            "client_debts_PR": "",
+            "client_debts_TC": "",
+            "consulted_debts_card_with_payment_promise": false,
+            "consulted_debts_disabled_card": false,
+            "consulted_debts_enabled_card": false,
+            "consulted_debts_loan": false,
+            "consulted_debts_loan_with_payment_promise": false,
+            "context_provided": false,
+            "derivation_key_atencion_agil": false,
+            "derivation_key_diseno": false,
+            "derivation_key_no_entendido": false,
+            "derivation_key_no_resuelto": false,
+            "derivation_key_pedido_operador": false,
+            "derivation_key_seccion_ayuda": false,
+            "derivation_key_seguridad": false,
+            "derive_operator": false,
+            "document_validation_step": false,
+            "exchange_rate_info_error": false,
+            "feedback_provided": false,
+            "flag_rescue": false,
+            "flag_resend_rescue": false,
+            "galicia_mas_dual_contador": 0,
+            "handover_counter": 0,
+            "hot_sale_first_time": true,
+            "is_agil": false,
+            "is_banca_privada": false,
+            "is_client": false,
+            "is_eminent": false,
+            "is_genesys": true,
+            "jump": false,
+            "jump_derivacion": false,
+            "jump_saludo_wpp": false,
+            "mail_token_attempts_counter": 0,
+            "mail_token_validation_attempts_counter": 0,
+            "mensajeria_out": false,
+            "options_validation_message": "Creo que esa no es una de las opciones. ¿Vamos de nuevo?",
+            "piloto_genesys": true,
+            "piloto_navepro": true,
+            "reclamos_out": false,
+            "reset_operation_successful": false,
+            "secure_email_info": "",
+            "secure_phone_skipped": "\"\"",
+            "sms_token_attempts_counter": 0,
+            "sms_token_validation_attempts_counter": 0,
+            "token_validation_status": "",
+            "customer_info_type": "DU",
+            "service_handler": [
+              "GET_CUSTOMER_INFO"
+            ]
+          },
+          "private_action_variables": {},
+          "private_skill_variables": {}
+        }
+      }
+    },
+    "output": {
+      "generic": [
+        {
+          "response_type": "text",
+          "text": "Llamado a GET_CUSTOMER_INFO"
+        }
+      ],
+      "intents": [
+        {
+          "intent": "action_43739_intent_9553",
+          "confidence": 1.0
+        }
+      ],
+      "entities": [],
+      "debug": {
+        "log_messages": [
+          {
+            "level": "error",
+            "message": "Provided expression [${account_movements_info}.account_movements_info.account_movements] cannot be evaluated\nSpEL evaluation error: Expression [${account_movements_info}.account_movements_info.account_movements] converted to [context['account_movements_info'].account_movements_info.account_movements] at position 34: EL1007E: Property or field 'account_movements_info' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${cbu_info}.cbu_info.alias_account] cannot be evaluated\nSpEL evaluation error: Expression [${cbu_info}.cbu_info.alias_account] converted to [context['cbu_info'].cbu_info.alias_account] at position 20: EL1007E: Property or field 'cbu_info' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${cards_info}.cards.cards.cards] cannot be evaluated\nSpEL evaluation error: Expression [${cards_info}.cards.cards.cards] converted to [context['cards_info'].cards.cards.cards] at position 22: EL1007E: Property or field 'cards' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${cards_info}.service_error] cannot be evaluated\nSpEL evaluation error: Expression [${cards_info}.service_error] converted to [context['cards_info'].service_error] at position 22: EL1008E: Property or field 'service_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Value of expression has to be string.",
+            "code": "expression_syntax_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.consolidated_debts.service_error] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.consolidated_debts.service_error] converted to [context['status_client'].consolidated_debts.service_error] at position 0: EL1007E: Property or field 'service_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].days_past_due] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].days_past_due] converted to [context['client_debts_TC'][0].days_past_due] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].is_card_enabled] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].is_card_enabled] converted to [context['client_debts_TC'][0].is_card_enabled] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].expired_debt] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].expired_debt] converted to [context['client_debts_TC'][0].expired_debt] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].has_promise] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].has_promise] converted to [context['client_debts_TC'][0].has_promise] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].last_four_card_numbers] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].last_four_card_numbers] converted to [context['client_debts_TC'][0].last_four_card_numbers] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].product_name.toUpperCase()] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].product_name.toUpperCase()] converted to [context['client_debts_TC'][0].product_name.toUpperCase()] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].promise_date] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].promise_date] converted to [context['client_debts_TC'][0].promise_date] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}[0].total_debt] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}[0].total_debt] converted to [context['client_debts_TC'][0].total_debt] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].days_past_due] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].days_past_due] converted to [context['client_debts_PR'][0].days_past_due] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].expired_debt] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].expired_debt] converted to [context['client_debts_PR'][0].expired_debt] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].has_promise] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].has_promise] converted to [context['client_debts_PR'][0].has_promise] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].product_number_decoded] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].product_number_decoded] converted to [context['client_debts_PR'][0].product_number_decoded] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].promise_date] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].promise_date] converted to [context['client_debts_PR'][0].promise_date] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_PR}[0].total_debt] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_PR}[0].total_debt] converted to [context['client_debts_PR'][0].total_debt] at position 26: EL1026E: The string has '0' characters, index '0' is invalid\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${delivery_tracking}.service_error] cannot be evaluated\nSpEL evaluation error: Expression [${delivery_tracking}.service_error] converted to [context['delivery_tracking'].service_error] at position 0: EL1007E: Property or field 'service_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${client_debts_TC}.has_promise] cannot be evaluated\nSpEL evaluation error: Expression [${client_debts_TC}.has_promise] converted to [context['client_debts_TC'].has_promise] at position 27: EL1008E: Property or field 'has_promise' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${secure_email_info}.mail_service_down_error] cannot be evaluated\nSpEL evaluation error: Expression [${secure_email_info}.mail_service_down_error] converted to [context['secure_email_info'].mail_service_down_error] at position 0: EL1007E: Property or field 'mail_service_down_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.client_data.name] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.client_data.name] converted to [context['status_client'].client_data.name] at position 0: EL1007E: Property or field 'name' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.smart_cases.open_claim] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.smart_cases.open_claim] converted to [context['status_client'].smart_cases.open_claim] at position 0: EL1007E: Property or field 'open_claim' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.consolidated_debts.product_on_debt] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.consolidated_debts.product_on_debt] converted to [context['status_client'].consolidated_debts.product_on_debt] at position 0: EL1007E: Property or field 'product_on_debt' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.delivery_tracking.product_on_delivery] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.delivery_tracking.product_on_delivery] converted to [context['status_client'].delivery_tracking.product_on_delivery] at position 0: EL1007E: Property or field 'product_on_delivery' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${promise_info}.promise_successful] cannot be evaluated\nSpEL evaluation error: Expression [${promise_info}.promise_successful] converted to [context['promise_info'].promise_successful] at position 0: EL1007E: Property or field 'promise_successful' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [\"receipt_cbu_info\": {\n                             \"service_error\": false                         \n}] cannot be evaluated\nSpEL syntax error: Expression [\"receipt_cbu_info\": {\n                             \"service_error\": false                         \n}] at position 18: EL1041E: After parsing a valid expression, there is still more data in the expression: 'colon(:)'\n",
+            "code": "expression_syntax_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${secure_email_info}.secure_email] cannot be evaluated\nSpEL evaluation error: Expression [${secure_email_info}.secure_email] converted to [context['secure_email_info'].secure_email] at position 0: EL1007E: Property or field 'secure_email' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "warning",
+            "message": "Value is incorrectly formatted for data type [boolean].",
+            "code": "generic"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${status_client}.client_data.segment_description ?  ${status_client}.client_data.segment_description : \"UNDEFINED\"] cannot be evaluated\nSpEL evaluation error: Expression [${status_client}.client_data.segment_description ?  ${status_client}.client_data.segment_description : \"UNDEFINED\"] converted to [context['status_client'].client_data.segment_description ?  context['status_client'].client_data.segment_description : \"UNDEFINED\"] at position 0: EL1007E: Property or field 'segment_description' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Value of expression has to be string.",
+            "code": "expression_syntax_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.service_enabled_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.service_enabled_error] converted to [context['token_validation_status'].service_enabled_error] at position 0: EL1007E: Property or field 'service_enabled_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.token_validation_by_mail_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.token_validation_by_mail_has_error] converted to [context['token_validation_status'].token_validation_by_mail_has_error] at position 0: EL1007E: Property or field 'token_validation_by_mail_has_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.challenge_validation_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.challenge_validation_error] converted to [context['token_validation_status'].challenge_validation_error] at position 0: EL1007E: Property or field 'challenge_validation_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${challenge_token_status}.token_validation_number_of_attemps_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${challenge_token_status}.token_validation_number_of_attemps_has_error] converted to [context['challenge_token_status'].token_validation_number_of_attemps_has_error] at position 0: EL1007E: Property or field 'token_validation_number_of_attemps_has_error' cannot be found on null\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.token_validation_successful] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.token_validation_successful] converted to [context['token_validation_status'].token_validation_successful] at position 35: EL1008E: Property or field 'token_validation_successful' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.token_validation_time_out_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.token_validation_time_out_has_error] converted to [context['token_validation_status'].token_validation_time_out_has_error] at position 35: EL1008E: Property or field 'token_validation_time_out_has_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${secure_email_info}.user_banned_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${secure_email_info}.user_banned_has_error] converted to [context['secure_email_info'].user_banned_has_error] at position 29: EL1008E: Property or field 'user_banned_has_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${secure_email_info}.user_has_no_mail_error] cannot be evaluated\nSpEL evaluation error: Expression [${secure_email_info}.user_has_no_mail_error] converted to [context['secure_email_info'].user_has_no_mail_error] at position 29: EL1008E: Property or field 'user_has_no_mail_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.validate_token_service_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.validate_token_service_has_error] converted to [context['token_validation_status'].validate_token_service_has_error] at position 35: EL1008E: Property or field 'validate_token_service_has_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Provided expression [${token_validation_status}.validate_token_too_many_attemps_on_limit_time_has_error] cannot be evaluated\nSpEL evaluation error: Expression [${token_validation_status}.validate_token_too_many_attemps_on_limit_time_has_error] converted to [context['token_validation_status'].validate_token_too_many_attemps_on_limit_time_has_error] at position 35: EL1008E: Property or field 'validate_token_too_many_attemps_on_limit_time_has_error' cannot be found on object of type 'String' - maybe not public or not valid?\n",
+            "code": "expression_evaluation_error"
+          },
+          {
+            "level": "error",
+            "message": "Dynamic options source variable [client_debts_PR] is not an array",
+            "code": "skill_error"
+          },
+          {
+            "level": "error",
+            "message": "Dynamic options source variable [client_debts_PR] is not an array",
+            "code": "skill_error"
+          },
+          {
+            "level": "error",
+            "message": "Dynamic options source variable [client_debts_TC] is not an array",
+            "code": "skill_error"
+          },
+          {
+            "level": "error",
+            "message": "Dynamic options source variable [client_debts_TC] is not an array",
+            "code": "skill_error"
+          },
+          {
+            "level": "error",
+            "message": "Value of operand INTENT is null.",
+            "code": "ASEL1001"
+          },
+          {
+            "level": "error",
+            "message": "Recoverable error. Resolver of type replay must have a non null and non empty 'clear' attribute. step_847 will be ignored from processing.",
+            "code": "RECOVERABLE_ERROR",
+            "source": {
+              "type": "action",
+              "action": "action_48363",
+              "step": "step_847"
+            }
+          }
+        ],
+        "turn_events": [
+          {
+            "source": {
+              "type": "action",
+              "action": "action_43739",
+              "action_title": "Smalltalk Hola"
+            },
+            "event": "action_visited",
+            "action_start_time": "2025-05-15T13:37:42.986846796Z",
+            "condition_type": "user_defined",
+            "reason": "intent"
+          },
+          {
+            "source": {
+              "type": "step",
+              "action": "action_43739",
+              "action_title": "Smalltalk Hola"
+            },
+            "event": "step_visited",
+            "action_start_time": "2025-05-15T13:37:42.986846796Z"
+          },
+          {
+            "source": {
+              "type": "step",
+              "action": "action_43739",
+              "action_title": "Smalltalk Hola"
+            },
+            "event": "step_visited",
+            "action_start_time": "2025-05-15T13:37:42.986846796Z"
+          },
+          {
+            "source": {
+              "type": "action",
+              "action": "action_44575-3",
+              "action_title": "Saludo Inicial"
+            },
+            "event": "action_visited",
+            "action_start_time": "2025-05-15T13:37:42.987034148Z",
+            "reason": "invoke_subaction"
+          },
+          {
+            "source": {
+              "type": "step",
+              "action": "action_44575-3",
+              "action_title": "Saludo Inicial"
+            },
+            "event": "step_visited",
+            "action_start_time": "2025-05-15T13:37:42.987034148Z"
+          },
+          {
+            "source": {
+              "type": "step",
+              "action": "action_44575-3",
+              "action_title": "Saludo Inicial"
+            },
+            "event": "step_visited",
+            "action_start_time": "2025-05-15T13:37:42.987034148Z",
+            "condition_type": "user_defined"
+          },
+          {
+            "source": {
+              "type": "action",
+              "action": "action_14710-2",
+              "action_title": "Customer_info y payloads"
+            },
+            "event": "action_visited",
+            "action_start_time": "2025-05-15T13:37:42.987184090Z",
+            "condition_type": "user_defined",
+            "reason": "invoke_subaction"
+          },
+          {
+            "source": {
+              "type": "step",
+              "action": "action_14710-2",
+              "action_title": "Customer_info y payloads"
+            },
+            "event": "step_visited",
+            "action_start_time": "2025-05-15T13:37:42.987184090Z",
+            "condition_type": "user_defined",
+            "has_question": true
+          }
+        ]
+      }
+    }
+  },
+  "sessionId": "d1adc699-315a-49d0-a073-9edc4b04b176"
+}
